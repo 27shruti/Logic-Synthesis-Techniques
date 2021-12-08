@@ -1,2 +1,4 @@
 # Logic-Synthesis-Techniques
-Course Project done for EC801 Logic Synthesis Techniquies
+ECE 3rd year VLSI Design Honors I course <br>
+EC801 Logic Synthesis Techniquies - Course Project<br>
+
